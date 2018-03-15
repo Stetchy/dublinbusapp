@@ -1,0 +1,10 @@
+{
+  "name": "dublinbusapp",
+  "displayName": "dublinbusapp",
+  "expo": {
+    "name": "dublinbusapp",
+    "slug": "dublinbusapp",
+    "sdkVersion": "22.0.0",
+    "description": "CA326 Project by Riain Condon and Shane Daly."
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"name":"dublinbusapp",
+	"jest":  {
+		"verbose":true
+	},
+	"setupFiles":[
+		"./shim.js",
+	]
+}
