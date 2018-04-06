@@ -1,3 +1,8 @@
+# Dublin Bus App
+
+## About
+This is a cross-platform dublin bus app which uses React Native. It was developed by Riain Condon and Shane Daly for their 3rd year project in Dublin City University as part of the Computer Applications degree.
+
 ## Installation guide
 
 #### 1. Downloading the Expo Client
