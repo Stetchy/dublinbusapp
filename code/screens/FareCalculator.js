@@ -103,8 +103,7 @@ export default class FareCalculator extends Component{
                   latitudeDelta: 0.5,
                   longitudeDelta: 0.5,
                 }}
-                style = {styles.map}
-                provider={Platform.OS === 'ios' ? PROVIDER_GOOGLE : null}>
+                style = {styles.map}>
                 {this.state.routeData.map(marker => (
                   <MapView.Marker
                     key = {`${marker.longitude}:${marker.latitude}`}
